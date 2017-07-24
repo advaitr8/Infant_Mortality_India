@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Previous literature and similar studies}{4}
+\contentsline {subsection}{\numberline {2.1}An overview of the issue}{4}
+\contentsline {subsection}{\numberline {2.2}Contrasting studies}{4}
+\contentsline {subsection}{\numberline {2.3}The gender component}{5}
+\contentsline {section}{\numberline {3}Bayesian multilevel (hierarchical) modeling and partial pooling}{6}
+\contentsline {section}{\numberline {4}The dataset and relevant variables}{7}
+\contentsline {section}{\numberline {5}Exploratory data analysis and trends in the data}{8}
+\contentsline {subsection}{\numberline {5.1}Comparing IMR in 2005 and 2014}{8}
+\contentsline {subsection}{\numberline {5.2}IMR in the 30 regions from 2005 to 2014}{9}
+\contentsline {subsection}{\numberline {5.3}IMR for females and males in the 30 regions from 2005 to 2014}{10}
+\contentsline {subsection}{\numberline {5.4}Ratio of female to male IMR in the 30 regions from 2005 to 2014}{11}
+\contentsline {section}{\numberline {6}Model specification and explanation}{12}
+\contentsline {section}{\numberline {7}Results and posterior predictive checking}{13}
+\contentsline {subsection}{\numberline {7.1}Summary statistics of hyperprior distributions - Females}{13}
+\contentsline {subsection}{\numberline {7.2}Summary statistics of hyperprior distributions - Males}{13}
+\contentsline {subsection}{\numberline {7.3}Posterior predictive checking of female and male IMR}{14}
+\contentsline {subsection}{\numberline {7.4}Posterior predictive checking for female IMR in the 30 regions from 2006 to 2014}{15}
+\contentsline {subsection}{\numberline {7.5}Posterior predictive checking for Male IMR in the 30 regions from 2006 to 2014}{16}
+\contentsline {subsection}{\numberline {7.6}State level intercepts ($\alpha _s$) for females and males}{17}
+\contentsline {subsection}{\numberline {7.7}Marginal posterior distribution of the elasticity parameter ($\beta _s$) for females and males}{18}
+\contentsline {section}{\numberline {8}Conclusion}{19}
